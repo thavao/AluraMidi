@@ -6,3 +6,5 @@ Simula um instrumento digital com varios timbres
 - CSS;
 - JavaScript;
 - Visual Studio Code;
+## Teste
+Teste acessando https://thavao.github.io/AluraMidi/
